@@ -1,0 +1,12 @@
+C:\Users\titim\source\repos\T-Scriptor\T-Scriptor\bin\Debug\T-Scriptor.exe.config
+C:\Users\titim\source\repos\T-Scriptor\T-Scriptor\bin\Debug\T-Scriptor.exe
+C:\Users\titim\source\repos\T-Scriptor\T-Scriptor\bin\Debug\T-Scriptor.pdb
+C:\Users\titim\source\repos\T-Scriptor\T-Scriptor\obj\Debug\T-Scriptor.csproj.AssemblyReference.cache
+C:\Users\titim\source\repos\T-Scriptor\T-Scriptor\obj\Debug\T_Scriptor.Form1.resources
+C:\Users\titim\source\repos\T-Scriptor\T-Scriptor\obj\Debug\T_Scriptor.Properties.Resources.resources
+C:\Users\titim\source\repos\T-Scriptor\T-Scriptor\obj\Debug\T-Scriptor.csproj.GenerateResource.cache
+C:\Users\titim\source\repos\T-Scriptor\T-Scriptor\obj\Debug\T-Scriptor.csproj.CoreCompileInputs.cache
+C:\Users\titim\source\repos\T-Scriptor\T-Scriptor\obj\Debug\T-Scriptor.exe
+C:\Users\titim\source\repos\T-Scriptor\T-Scriptor\obj\Debug\T-Scriptor.pdb
+C:\Users\titim\source\repos\T-Scriptor\T-Scriptor\obj\Debug\T_Scriptor.FormReplace.resources
+C:\Users\titim\source\repos\T-Scriptor\T-Scriptor\obj\Debug\T_Scriptor.FindForm.resources
