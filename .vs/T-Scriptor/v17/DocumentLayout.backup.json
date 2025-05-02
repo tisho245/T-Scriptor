@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\titim\\source\\repos\\T-Scriptor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C295FA5D-E60E-4AE8-8CC8-37E9CF8BD979}|T-Scriptor\\T-Scriptor.csproj|C:\\Users\\titim\\source\\repos\\T-Scriptor\\t-scriptor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C295FA5D-E60E-4AE8-8CC8-37E9CF8BD979}|T-Scriptor\\T-Scriptor.csproj|solutionrelative:t-scriptor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C295FA5D-E60E-4AE8-8CC8-37E9CF8BD979}|T-Scriptor\\T-Scriptor.csproj|c:\\users\\titim\\source\\repos\\t-scriptor\\t-scriptor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C295FA5D-E60E-4AE8-8CC8-37E9CF8BD979}|T-Scriptor\\T-Scriptor.csproj|solutionrelative:t-scriptor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C295FA5D-E60E-4AE8-8CC8-37E9CF8BD979}|T-Scriptor\\T-Scriptor.csproj|C:\\Users\\titim\\source\\repos\\T-Scriptor\\t-scriptor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C295FA5D-E60E-4AE8-8CC8-37E9CF8BD979}|T-Scriptor\\T-Scriptor.csproj|solutionrelative:t-scriptor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\T-Scriptor\\T-Scriptor\\Form1.cs",
               "RelativeDocumentMoniker": "T-Scriptor\\Form1.cs",
-              "ToolTip": "C:\\Users\\titim\\source\\repos\\T-Scriptor\\T-Scriptor\\Form1.cs*",
-              "RelativeToolTip": "T-Scriptor\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\T-Scriptor\\T-Scriptor\\Form1.cs",
+              "RelativeToolTip": "T-Scriptor\\Form1.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAD4v/4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T11:04:02.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\T-Scriptor\\T-Scriptor\\Form1.cs",
               "RelativeDocumentMoniker": "T-Scriptor\\Form1.cs",
-              "ToolTip": "C:\\Users\\titim\\source\\repos\\T-Scriptor\\T-Scriptor\\Form1.cs [Design]*",
-              "RelativeToolTip": "T-Scriptor\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\T-Scriptor\\T-Scriptor\\Form1.cs [Design]",
+              "RelativeToolTip": "T-Scriptor\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T11:02:59.076Z",
               "EditorCaption": " [Design]"

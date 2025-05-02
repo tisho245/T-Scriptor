@@ -238,12 +238,14 @@ namespace T_Scriptor
 
         private void customizeToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            
             if (fontDLG.ShowDialog() == DialogResult.OK)
             {
                 richTextBox1.SelectionFont = fontDLG.Font;
                 richTextBox1.SelectionColor = fontDLG.Color;
+                FileSaved = null;
             }
+            
         }
 
         private void optionsToolStripMenuItem_Click(object sender, EventArgs e)
